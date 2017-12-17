@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: maroonever@naver.com
 baseurl: /
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -13,9 +13,9 @@ twitter_username:
 default_img: 
 
 # Profile settings
-name: 
+name: Spencer Do
 profile_img: 
-profile: 
+profile: OPENSOURCE PROJECT
 social:
   github: 
 
