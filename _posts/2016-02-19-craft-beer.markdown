@@ -15,18 +15,13 @@ opensource ict 2017012842 DO HYUNMIN
 
 Proud to present our gini project!!
 
-<ul>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
-</ul>
+
 
 <ol>
-  <li>Actually YOLO marfa tofu shabby chic snackwave. Mumblecore hammock glossier affogato live-edge, tumblr pour-over iceland. Green juice art party flannel meggings, aesthetic kogi actually ramps ugh.</li>
-  <li>Church-key crucifix messenger bag health goth</li>
-  <li>Try-hard artisan direct trade</li>
-  <li>Cold-pressed selfies</li>
+  <li>발표 시연 영상 링크.</li
+  <li>3D프린팅 모델링 관련 자료</li>
+  <li>프로젝트 발표 ppt</li>
+  <li>프로젝트 코드</li>
 </ol>
 
 <h3>Subway tile</h3>
