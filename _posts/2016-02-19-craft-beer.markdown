@@ -24,4 +24,4 @@ Proud to present our gini project!!
   <li>프로젝트 코드</li>
 <ol>
 
-<h3>지니 </h3>
+<h3>GINI PROJECT </h3>
